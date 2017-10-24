@@ -1,2 +1,2 @@
 # astrindo_dev
-astrindo dev
+this is a test of astrindo dev
